@@ -1,16 +1,19 @@
-
-# Projektnamn här
+﻿
+# Personlig portfolio
 Projektmedlemmar: 
-[tstjostudent](https://github.com/tstjostudent), [xx222yy](https://github.com/tstjostudent), [yy222xx](https://github.com/tstjostudent)
+[tstjostudent](https://github.com/tstjostudent), [rr222cy](https://github.com/rr222cy), [yy222xx](https://github.com/tstjostudent)
 
 *Lista alla medlemmar ovan. Ni behöver inte ange fullständiga namn utan länk till GitHub-konto räcker.*
 
-[Exekverbar version av projektet](http://tstjostudent.github.io/Projektet)
+[Exekverbar version av projektet](http://www.robertroos.eu)
 
 *Länka till en körbar version av projektet ovan. Exempelvis kan ni skapa en gh-pages-branch på samma sätt som i Uppgift 1.1, laboration 1.*
 
-## Beskrivning av projektet
-*En kort och koncis beskrivning av projektet. Vad är det ni vill skapa? Varför? Hur fick ni idén?*
+## Bakgrund och syfte
+Syns du inte på webben, finns du inte. Lite så kan man sammanfatta läget om man planerar att arbeta med frilansuppdrag inom webbutveckling och programmering.
+
+Jag har därför tänkt skapa en webbplats som kommer att fungera som min portfolio online. Den ska alltså visa upp vad jag jobbar med (webbdesign, foto) och lyfta fram referenser samt ge besökaren möjlighet till att kontakta mig för frilansuppdrag.
+
 
 ## Tekniker
 *Vilka tekniker kommer att användas? Kommer ni att använda några ramverk? CSS-preprocessors?*
