@@ -13,6 +13,16 @@ Jag har därför tänkt skapa en webbplats som kommer att fungera som min portfo
 ## Tekniker och uppbyggnad
 Webbplatsen kommer att struktureras upp med HTML5 och sedan designas med hjälp utav CSS3. Viss grafik kommer även att designas, detta i Photoshop. Även grafik/bilder under Creative Commons licens kan komma att användas, då med tydlig referens till upphovsmannen.
 
+### Sidor
+Webbplatsen kommer bestå av följande sidor: 
+
+* Startsida
+* Webbdesign
+* Foto
+* Referenser
+* Om mig
+* Kontakt
+
 ## Begränsningar
 Det finns mycket man kan göra för att göra sidan mera funktionell med hjälp av såväl serversidekod, som javascript och jQuery. Dock kommer jag begränsa mig till att endast använda mig utav HTML5 och CSS, då det är vad kursen detta projekt ingår i har som inriktning - samt pga bristande kunskaper i bland annat serversidespråk.
 
