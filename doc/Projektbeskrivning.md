@@ -15,23 +15,25 @@ Webbplatsen kommer att struktureras upp med HTML5 och sedan designas med hjälp 
 ### Sidor
 Webbplatsen kommer bestå av följande sidor: 
 
-* <strong>Startsida</strong><br />
+* <strong>Startsida (index.html)</strong><br />
 Startsidan kommer att välkomna besökaren och ge en god överblick över vad den handlar om, vad som erbjuds, tydlig navigering och dessutom ha en layout och grafik
 som tilltalar besökaren.
-* <strong>Webbdesign</strong>
-* <strong>Foto</strong>
-* <strong>Referenser</strong>
-* <strong>Om mig</strong>
-* <strong>Kontakt</strong>
+* <strong>Webbdesign (webbdesign.html)</strong><br />
+Undersidan webbdesign kommer som titeln avslöjar presentera vad jag kan och vad jag erbjuder för tjänster inom webbdesign. Bilder/exempel kommer presenteras här, även om meningen är att majoriteten av sådant skall placeras under referenser.
+* <strong>Foto (foto.html)</strong><br />
+Fungerar på samma sätt som webbdesign.html fast med foto (denna sida är tillfällig, för projektet)
+* <strong>Referenser (referenser.html)</strong><br />
+På denna sida kommer referenser och exempel på tidigare arbeten att presenteras. Tanken är någon form av galleri, om denna kommer kopplas till ännu en undersida kommer jag bestämma mig för utefer vad som passar bäst under skiss/designdelen av projektet.
+* <strong>Om mig (robert-roos.html</strong><br />
+Om mig kommer presentera mig som person kort, utbildning osv.
+* <strong>Kontakt (kontakt.html)</strong><br />
+På denna sida kommer ett kontaktformulär att finnas, för att besökare/potentiella kunder skall kunna komma i kontakt med mig.
 
 ## Begränsningar
 Det finns mycket man kan göra för att göra sidan mera funktionell med hjälp av såväl serversidekod, som javascript och jQuery. Dock kommer jag begränsa mig till att endast använda mig utav HTML5 och CSS, då det är vad kursen detta projekt ingår i har som inriktning - samt pga bristande kunskaper i bland annat serversidespråk.
 
-## Förstudier
-*Eventuellt redan existerande prototyper, användarundersökningar etc. Kanske gör ni om en befintlig webbplats? Beskriv då det här.*
-
-## *Förändra*
-*Lägg gärna till egna rubriker eller förändra strukturen så att den passar ert projekt.*
+## Reservationer
+Reserverar mig för att förändringar till sidstrukturen och dess innehåll kan komma att ske om jag upptäcker ett bättre sätt att göra något på än jag förutspått.
 
 ## Tidsplanering
 [Tidsplanering som PDF](rr222cy-tidsplan.pdf)
