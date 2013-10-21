@@ -18,8 +18,11 @@ Webbplatsen kommer bestå av följande sidor:
 * <strong>Startsida (index.html)</strong><br />
 Startsidan kommer att välkomna besökaren och ge en god överblick över vad den handlar om, vad som erbjuds, tydlig navigering och dessutom ha en layout och grafik
 som tilltalar besökaren.
-* <strong>Webbdesign (webbdesign.html)</strong><br />
-Undersidan webbdesign kommer som titeln avslöjar presentera vad jag kan och vad jag erbjuder för tjänster inom webbdesign. Bilder/exempel kommer presenteras här, även om meningen är att majoriteten av sådant skall placeras under referenser.
+* <strong>Webbproduktion (webbproduktion.html)</strong><br />
+Undersidan webbproduktion kommer som titeln avslöjar presentera vad jag kan och vad jag erbjuder för tjänster inom webbproduktion. Bilder/exempel kommer presenteras här, även om meningen är att majoriteten av sådant skall placeras under referenser.
+    * <strong>Webbplats (webbplats.html)</strong><br />
+    * <strong>Sociala medier (socialamedier.html)</strong><br />
+    * <strong>Sökmotoroptimering (seo.html)</strong><br />
 * <strong>Foto (foto.html)</strong><br />
 Fungerar på samma sätt som webbdesign.html fast med foto (denna sida är tillfällig, för projektet)
 * <strong>Referenser (referenser.html)</strong><br />
