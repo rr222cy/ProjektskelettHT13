@@ -9,14 +9,15 @@ Syns du inte på webben, finns du inte. Lite så kan man sammanfatta läget om m
 
 Jag har därför tänkt skapa en webbplats som kommer att fungera som min portfolio online. Den ska alltså visa upp vad jag jobbar med (webbdesign, foto) och lyfta fram referenser samt ge besökaren möjlighet till att kontakta mig för frilansuppdrag.
 
-
 ## Tekniker och uppbyggnad
-Webbplatsen kommer att struktureras upp med HTML5 och sedan designas med hjälp utav CSS3. Viss grafik kommer även att designas, detta i Photoshop. Även grafik/bilder under Creative Commons licens kan komma att användas, då med tydlig referens till upphovsmannen.
+Webbplatsen kommer att struktureras upp med HTML5 och sedan designas med hjälp utav CSS3 samt följa WCAG 2.0. Viss grafik kommer även att designas, detta i Photoshop. Även grafik/bilder under Creative Commons licens kan komma att användas, då med tydlig referens till upphovsmannen.
 
 ### Sidor
 Webbplatsen kommer bestå av följande sidor: 
 
-* Startsida
+* <strong>Startsida</strong>
+Startsidan kommer att välkomna besökaren och ge en god överblick över vad den handlar om, vad som erbjuds, tydlig navigering och dessutom ha en layout och grafik
+som tilltalar besökaren.
 * Webbdesign
 * Foto
 * Referenser
