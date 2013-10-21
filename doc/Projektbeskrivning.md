@@ -15,14 +15,14 @@ Webbplatsen kommer att struktureras upp med HTML5 och sedan designas med hjälp 
 ### Sidor
 Webbplatsen kommer bestå av följande sidor: 
 
-* <strong>Startsida</strong>
+* <strong>Startsida</strong><br />
 Startsidan kommer att välkomna besökaren och ge en god överblick över vad den handlar om, vad som erbjuds, tydlig navigering och dessutom ha en layout och grafik
 som tilltalar besökaren.
-* Webbdesign
-* Foto
-* Referenser
-* Om mig
-* Kontakt
+* <strong>Webbdesign</strong>
+* <strong>Foto</strong>
+* <strong>Referenser</strong>
+* <strong>Om mig</strong>
+* <strong>Kontakt</strong>
 
 ## Begränsningar
 Det finns mycket man kan göra för att göra sidan mera funktionell med hjälp av såväl serversidekod, som javascript och jQuery. Dock kommer jag begränsa mig till att endast använda mig utav HTML5 och CSS, då det är vad kursen detta projekt ingår i har som inriktning - samt pga bristande kunskaper i bland annat serversidespråk.
@@ -34,5 +34,5 @@ Det finns mycket man kan göra för att göra sidan mera funktionell med hjälp 
 *Lägg gärna till egna rubriker eller förändra strukturen så att den passar ert projekt.*
 
 ## Tidsplanering
-*Länka till tidsplaneringen här, eller fäll in som en bild.*
+[Tidsplanering som PDF](rr222cy-tidsplan.pdf)
 
