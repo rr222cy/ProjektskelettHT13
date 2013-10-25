@@ -32,7 +32,7 @@ body
 }
 
 header {
-    min-height: 105px;
+    min-height: 110px;
     padding: 1%;
 }
 
@@ -162,13 +162,13 @@ h1 {
 }
 
 header h1 {
-    font-size: 38pt;
+    font-size: 40pt;
     font-weight: 400;
     line-height: 100%;
 }
 
 header h2 {
-    font-size: 22pt;
+    font-size: 24pt;
     line-height: 100%;
 }
 
@@ -255,12 +255,14 @@ img.center {
 .picRight {
     float: right;
     border: 5px solid;
+    border-color: #ffffff;
     margin: 10px 0px 10px 10px;
 }
 
 .picLeft {
     float: left;
     border: 5px solid;
+    border-color: #ffffff;
     margin: 10px 10px 10px 0px;
 }
 
