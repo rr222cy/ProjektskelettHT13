@@ -31,7 +31,7 @@ body
 }
 
 header {
-    height: 105px;
+    min-height: 105px;
     padding: 1%;
 }
 
@@ -159,6 +159,64 @@ header h1 {
 header h2 {
     font-size: 22pt;
     line-height: 100%;
+}
+
+
+/* Formateringar för formulär */
+
+
+/* Formateringar för formulär */
+
+#Submit
+{
+    width: 25%;
+}
+    
+input  
+{
+    width: 50.7%;
+    padding: 1%;
+}
+
+select
+{
+    width: 53%;
+    padding: 1%;
+}
+
+textarea
+{
+    width: 51%;
+    min-height: 100px;
+    padding: 1%;
+}
+    
+fieldset
+{
+    width: 96%;
+    margin-bottom: 1%;
+}
+    
+legend
+{
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+label.leftalign
+{
+    text-align: left;
+    float: left;
+    width: 20%;
+    margin-right: -5%;
+}
+    
+label.leftalignshort
+{
+    text-align: left;
+    float: left;
+    width: 25%;
+    margin-right: -22%;
 }
 
 

@@ -27,3 +27,60 @@ nav a
     margin-left: 0;
     display: block;
 }
+
+
+/* Formateringar för formulär */
+
+#Submit
+{
+    width: 100%;
+}
+
+input  
+{
+    width: 95%;
+    padding: 2%;
+}
+
+select
+{
+    width: 100%;
+    padding: 2%;
+}
+
+textarea
+{
+    width: 96%;
+    padding: 2%;
+}
+    
+fieldset
+{
+    width: 92%;
+    margin-bottom: 2%;
+}
+    
+legend
+{
+    font-weight: bold;
+}
+
+label.leftalign
+{
+    text-align: left;
+    width: 100%;
+    margin-right: -5%;
+}
+
+label.leftalignshort
+{
+    text-align: left;
+    float: left;
+    width: 90%;
+}
+
+input[type=checkbox] 
+{  
+    float: left;
+    width: 10%;    
+}
