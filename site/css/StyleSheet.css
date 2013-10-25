@@ -10,6 +10,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 html {
     position: relative;
     min-height: 100%;
+    background-color: #ffffff;
 }
 
 body 
