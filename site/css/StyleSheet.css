@@ -75,8 +75,18 @@ footer {
 
 /* Klasser tillhörande ovanstående, för modifikationer av bla. färger */
 
+.articleRed {
+    background-color: #f03536;
+    color: #ffffff;
+}
+
 .articleBlue {
     background-color: #167cc0;
+    color: #ffffff;
+}
+
+.articleGray {
+    background-color: #3c3f41;
     color: #ffffff;
 }
 
@@ -147,7 +157,7 @@ a:hover
 
 h1 {
     font-size: 21pt;
-    line-height: 140%;
+    line-height: 190%;
     font-weight: 700;
 }
 
@@ -234,6 +244,12 @@ label.leftalignshort
 
 img {
     max-width: 100%;
+}
+
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .picRight {
