@@ -1,4 +1,4 @@
-﻿# Personlig portfolio
+﻿# Personlig portfolio och CV
 Projektmedlemmar: 
 [rr222cy](https://github.com/rr222cy)
 
@@ -30,7 +30,7 @@ Undersidan webbproduktion kommer som titeln avslöjar presentera vad jag kan och
 Fungerar på samma sätt som webbdesign.html fast med foto (denna sida är tillfällig, för projektet)
 * <strong>Referenser (referenser.html)</strong><br />
 På denna sida kommer referenser och exempel på tidigare arbeten att presenteras. Tanken är någon form av galleri, om denna kommer kopplas till ännu en undersida kommer jag bestämma mig för utefer vad som passar bäst under skiss/designdelen av projektet.
-* <strong>Om mig (robert-roos.html</strong><br />
+* <strong>Om mig (robert-roos.html)</strong><br />
 Om mig kommer presentera mig som person kort, utbildning osv.
 * <strong>Kontakt (kontakt.html)</strong><br />
 På denna sida kommer ett kontaktformulär att finnas, för att besökare/potentiella kunder skall kunna komma i kontakt med mig.
