@@ -22,10 +22,13 @@ html, body
 
 /* Formateringar av DIV-element */
 
+#container {
+    width: 96%;
+    padding: 2%;
+}
 
 header {
-    width: 98%;
-    padding: 1%;
+
 }
 
 nav {
@@ -56,5 +59,11 @@ a:hover
 /* Formatering av text */
 
 h1 {
-    font-size: 24pt;
+    font-size: 38pt;
+    line-height: 100%;
+}
+
+h2 {
+    font-size: 22pt;
+    line-height: 100%;
 }
