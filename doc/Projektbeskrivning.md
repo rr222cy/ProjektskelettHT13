@@ -10,7 +10,7 @@ Syns du inte på webben, finns du inte. Lite så kan man sammanfatta läget om m
 Jag har därför tänkt skapa en webbplats som kommer att fungera som min portfolio online. Den ska alltså visa upp vad jag jobbar med (webbdesign, foto) och lyfta fram referenser samt ge besökaren möjlighet till att kontakta mig för frilansuppdrag.
 
 ## Tekniker och uppbyggnad
-Webbplatsen kommer att struktureras upp med HTML5 och sedan designas med hjälp utav CSS3 samt följa WCAG 2.0. Viss grafik kommer även att designas, detta i Photoshop. Även grafik/bilder under Creative Commons licens kan komma att användas, då med tydlig referens till upphovsmannen.
+Webbplatsen kommer att struktureras upp med HTML5 och sedan designas med hjälp utav CSS3 samt följa WCAG 2.0. Viss grafik kommer även att designas, detta i Photoshop. Även grafik/bilder under Creative Commons licens kan komma att användas, då med tydlig referens till upphovsmannen. Även en lightbox, Slimbox 2, som använder sig utav jQuery kommer brukas för tydligare presentation av bilder.
 
 ### Sidor
 Webbplatsen kommer bestå av följande sidor: 
@@ -36,7 +36,7 @@ Om mig kommer presentera mig som person kort, utbildning osv.
 På denna sida kommer ett kontaktformulär att finnas, för att besökare/potentiella kunder skall kunna komma i kontakt med mig.
 
 ## Begränsningar
-Det finns mycket man kan göra för att göra sidan mera funktionell med hjälp av såväl serversidekod, som javascript och jQuery. Dock kommer jag begränsa mig till att endast använda mig utav HTML5 och CSS, då det är vad kursen detta projekt ingår i har som inriktning - samt pga bristande kunskaper i bland annat serversidespråk.
+Det finns mycket man kan göra för att göra sidan mera funktionell med hjälp av såväl serversidekod, som javascript och jQuery. Dock kommer jag begränsa mig till att endast använda mig utav HTML5 och CSS3, då det är vad kursen detta projekt ingår i har som inriktning - samt pga bristande kunskaper i bland annat serversidespråk.
 
 ## Reservationer
 Reserverar mig för att förändringar till sidstrukturen och dess innehåll kan komma att ske om jag upptäcker ett bättre sätt att göra något på än jag förutspått.
