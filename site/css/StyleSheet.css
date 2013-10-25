@@ -43,16 +43,16 @@ nav {
 }
 
 main {
-    
 }
 
 article {
-    padding: 1%;
+    padding: 2% 1% 2% 1%;
 }
 
 section {
     max-width: 960px;
     margin: 0px auto;
+    
 }
 
 aside {
@@ -162,11 +162,20 @@ header h2 {
     line-height: 100%;
 }
 
+p {
+    margin-bottom: 15px;
+}
+
+strong {
+    font-weight: bold;
+}
+
+em {
+    font-style: italic;
+}
 
 /* Formateringar för formulär */
 
-
-/* Formateringar för formulär */
 
 #Submit
 {
@@ -225,4 +234,20 @@ label.leftalignshort
 
 img {
     max-width: 100%;
+}
+
+.picRight {
+    float: right;
+    border: 5px solid;
+    margin: 10px 0px 10px 10px;
+}
+
+.picLeft {
+    float: left;
+    border: 5px solid;
+    margin: 10px 10px 10px 0px;
+}
+
+.clear {
+    clear: both;
 }
