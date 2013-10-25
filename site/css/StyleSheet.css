@@ -7,11 +7,15 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 
 /* Övergripande inställningar */
 
+html {
+    position: relative;
+    min-height: 100%;
+}
 
-html, body 
+body 
 {
     width: 100%;
-    height: 100%;
+    margin: 0 0 100px;
     background-color: #eeeeee;
     font-family: 'Quattrocento', Georgia, Tahoma, Verdana, Arial;
     font-size: 12pt;
@@ -20,25 +24,54 @@ html, body
 }
 
 
-/* Formateringar av DIV-element */
+/* Formateringar av DIV-element och HTML5-strukturtaggar */
 
 #container {
-    width: 96%;
-    padding: 2%;
+    width: 100%;
 }
 
 header {
-
+    padding: 1%;
 }
 
 nav {
+    width: 100%;
+    height: 45px;
 }
 
 main {
+    
+}
+
+article {
+    padding: 1%;
 }
 
 footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 50px;
+    width: 98%;
+    padding: 1%;    
+    background-color: #3c3f41;
+    color: #ffffff;
+    font-size: 10pt;
 }
+
+
+/* Klasser tillhörande ovanstående, för modifikationer av bla. färger */
+
+.articleBlue {
+    background-color: #167cc0;
+    color: #ffffff;
+}
+
+.articleWhite {
+    background-color: #ffffff;
+    color: #353535;
+}
+
 
 
 /* Formatering av länkar */
@@ -66,4 +99,11 @@ h1 {
 h2 {
     font-size: 22pt;
     line-height: 100%;
+}
+
+
+/* Övriga formateringar */
+
+img {
+    max-width: 100%;
 }
