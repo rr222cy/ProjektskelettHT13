@@ -1,0 +1,24 @@
+@media print 
+{
+
+h1 {
+    color: #000000;
+}
+    
+p {
+    color: #000000;
+}
+    
+nav {
+    display: none;
+}
+
+img {
+    display: none;
+}
+    
+.noshow {
+    display: none;
+}
+    
+}

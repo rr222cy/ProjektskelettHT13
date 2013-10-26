@@ -32,6 +32,7 @@ body
 }
 
 header {
+    
     min-height: 110px;
     padding: 1%;
 }
@@ -50,14 +51,18 @@ article {
 }
 
 section {
-    max-width: 1200px;
+    max-width: 1200px;    
     margin: 0px auto;
-    
+    margin-top: -2%;
+    margin-bottom: -2%;
+    padding: 2% 2% 2% 2%;    
 }
 
 aside {
-    width: 50%;
+    width: 48%;
+    padding: 1%;
     float: right;
+    text-align: center;
 }
 
 footer {
@@ -93,6 +98,17 @@ footer {
 .articleWhite {
     background-color: #ffffff;
     color: #353535;
+}
+
+.articleHouse {
+    background-color: #3c3f41;
+    color: #ffffff;
+    background-image: url(pics/Header.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat:no-repeat;  
 }
 
 
@@ -177,7 +193,7 @@ p {
 }
 
 strong {
-    font-weight: bold;
+    font-weight: 700;
 }
 
 em {
@@ -272,7 +288,9 @@ img.center {
     clear: both;
 }
 
-
+.darkBackground {
+    background-color: rgba(0, 0, 0, 0.4);
+}
 
 
 
