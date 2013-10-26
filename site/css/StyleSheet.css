@@ -111,6 +111,17 @@ footer {
     background-repeat:no-repeat;  
 }
 
+.articleRoad {
+    background-color: #3c3f41;
+    color: #ffffff;
+    background-image: url(pics/Road.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat:no-repeat;  
+}
+
 
 /* Formatering av sidans huvudmeny */
 
@@ -274,18 +285,22 @@ img.center {
     float: right;
     border: 5px solid;
     border-color: #ffffff;
-    margin: 10px 0px 10px 10px;
+    margin: 10px 0px 10px 20px;
 }
 
 .picLeft {
     float: left;
     border: 5px solid;
     border-color: #ffffff;
-    margin: 10px 10px 10px 0px;
+    margin: 10px 20px 10px 0px;
 }
 
 .clear {
     clear: both;
+}
+
+.lightDarkBackground {
+    background-color: rgba(0, 0, 0, 0.2);
 }
 
 .darkBackground {
