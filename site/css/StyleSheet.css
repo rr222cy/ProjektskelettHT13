@@ -32,7 +32,6 @@ body
 }
 
 header {
-    
     min-height: 110px;
     padding: 1%;
 }
@@ -122,6 +121,38 @@ footer {
     background-repeat:no-repeat;  
 }
 
+.articleRoosweb {
+    background-color: #3c3f41;
+    color: #ffffff;
+    background-image: url(pics/Roosweb.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat:no-repeat;  
+}
+
+.articleShopping {
+    background-color: #3c3f41;
+    color: #000000;
+    background-image: url(pics/Shopping-Borlange.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat:no-repeat;  
+}
+
+.articleWebbyran {
+    background-color: #3c3f41;
+    color: #ffffff;
+    background-image: url(pics/Webbyran.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat:no-repeat;  
+}
 
 /* Formatering av sidans huvudmeny */
 
