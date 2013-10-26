@@ -126,9 +126,10 @@ footer {
 /* Formatering av sidans huvudmeny */
 
 #menu-icon {
+    background-color: #eeeeee;
 	display: none;
-	width: 20px;
-	height: 40px;
+	width: 0px;
+	height: 16px;
 }
 
 nav ul
