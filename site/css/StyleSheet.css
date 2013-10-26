@@ -149,6 +149,10 @@ nav a:hover
 {
     background-color: #167cc0;
     color: #ffffff;
+    -webkit-transition: background-color 300ms ease-out 0s;
+    -moz-transition: background-color 300ms ease-out 0s;
+    -o-transition: background-color 300ms ease-out 0s;
+    transition: background-color 300ms ease-out 0s;
 }
 
 nav a:focus
