@@ -3,34 +3,39 @@
 
 /* Formateringar som skall gälla för menyn för handhållna enheter */
 
+#menu-icon {
+    display: block;
+}
 
-nav {
-    padding: 0% 0% 0% 0%;
-    width: 100%;
-    height: 100%;
+main {
     clear: both;
 }
 
-nav ul
-{
+nav {
+    float: right;
+    height: 100px;
+}
+
+nav ul, nav:active ul { 
+    display: none;
+    position: absolute;
+    background: #ffffff;
+    left: 0px;
+    top: 180px;
+    width: 100%;
+}
+
+nav li  {
+    position: relative;
+    width: 100%;
+    padding: 10px 0;
     margin: 0;
-    list-style: none;
 }
 
-nav li
-{
-    float: none;
-}
-
-nav a
-{
-    text-decoration: none;
-    color: #ffffff;
-    background-color: #3c3f41;
-    padding: 9px 20px 8px 20px;
-    margin-left: 0;
+nav:hover ul {
     display: block;
 }
+
 
 
 /* Formateringar för formulär för handhållna enheter */
