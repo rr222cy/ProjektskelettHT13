@@ -28,13 +28,16 @@ nav ul, nav:active ul {
 nav li  {
     position: relative;
     width: 100%;
-    padding: 10px 0;
+    padding: 0px 0;
     margin: 0;
 }
 
-nav:hover ul {
+nav:hover ul, nav:hover a {
     display: block;
+    width: 100%;
 }
+
+
 
 
 
