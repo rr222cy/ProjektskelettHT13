@@ -125,13 +125,6 @@ footer {
 
 /* Formatering av sidans huvudmeny */
 
-#menu-icon {
-    background-color: #eeeeee;
-	display: none;
-	width: 0px;
-	height: 16px;
-}
-
 nav ul
 {
     margin: 0px;
@@ -168,6 +161,10 @@ nav .active a
 {
     background-color: #167cc0;
     color: #ffffff;
+}
+
+#menuLink {   
+    display: none;
 }
 
 

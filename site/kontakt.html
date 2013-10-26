@@ -34,13 +34,16 @@
             </header>
             
             <nav>
-                <ul>
-                    <li><a href="index.html">Startsida</a></li>
+                <a id="menuLink" href="#menu">Visa meny</a>
+                
+                <ul id="menu">
+                    <li class="active"><a href="index.html">Startsida</a></li>
                     <li><a href="webbproduktion.html">Webbproduktion</a></li>
                     <li><a href="foto.html">Foto</a></li>
                     <li><a href="referenser.html">Referenser</a></li>
-                    <li class="active"><a href="kontakt.html">Kontakt</a></li>
+                    <li><a href="kontakt.html">Kontakt</a></li>
                     <li><a href="robert-roos.html">Om mig</a></li>
+                    <li><a id="menuLink" href="#container"><strong>Stäng meny</strong></a></li>
                 </ul>
             </nav>
             
@@ -59,7 +62,7 @@
                         
                         <form name="ContactForm" action="#" method="post">
                             <fieldset>
-                                <legend>Meddelande</legend>
+                                <legend>Här kan du kontakta mig</legend>
                                 <label class="leftalign" for="Type">Ärendetyp:</label>
                                     <select name="Type" id="Type">
                                         <option value="Fråga">Offertförfrågan</option>
@@ -68,7 +71,7 @@
                                     </select><br />
                                 <label class="leftalign" for="Subject">Rubrik:</label>
                                     <input type="text" name="Subject" id="Subject"><br />
-                                <label class="leftalign" for="Email">Din mailadress:</label>
+                                <label class="leftalign" for="Email">Mail:</label>
                                     <input type="text" name="Email" id="Email"><br />
                                 <label class="leftalign" for="Message">Meddelande:</label> 
                                     <textarea name="Message" id="Message"></textarea>
