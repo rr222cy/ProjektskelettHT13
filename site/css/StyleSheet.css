@@ -121,6 +121,17 @@ footer {
     background-repeat:no-repeat;  
 }
 
+.articleKaffe {
+    background-color: #3c3f41;
+    color: #ffffff;
+    background-image: url(pics/Kaffe-stor.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat:no-repeat;  
+}
+
 .articleRoosweb {
     background-color: #3c3f41;
     color: #ffffff;
