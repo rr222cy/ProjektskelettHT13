@@ -46,14 +46,14 @@ main {
 }
 
 article {
-    padding: 2% 1% 2% 1%;
+    padding: 2% 1% 3% 1%;
 }
 
 section {
     max-width: 1100px;    
     margin: 0px auto;
     margin-top: -2%;
-    margin-bottom: -2%;
+    margin-bottom: -3%;
     padding: 2% 2% 2% 2%;    
 }
 
@@ -125,6 +125,17 @@ footer {
     background-color: #3c3f41;
     color: #ffffff;
     background-image: url(pics/Kaffe-stor-bg.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat:no-repeat;  
+}
+
+.articleBokeh {
+    background-color: #3c3f41;
+    color: #ffffff;
+    background-image: url(pics/Bokeh.jpg);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
