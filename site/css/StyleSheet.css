@@ -32,7 +32,7 @@ body
 }
 
 header {
-    min-height: 110px;
+    min-height: 120px;
     padding: 1%;
 }
 
@@ -209,14 +209,14 @@ a:hover
 /* Formatering av text */
 
 h1 {
-    font-size: 24pt;
+    font-size: 26pt;
     line-height: 200%;
     font-weight: 700;
     text-align: center;
 }
 
 header h1 {
-    font-size: 40pt;
+    font-size: 44pt;
     font-weight: 400;
     line-height: 100%;
     text-align: left;
