@@ -47,38 +47,44 @@
             </nav>
             
             <main>
-                <article class="articleBlue">
-                    <section>
-                        <h1>Jag vill gärna komma i kontakt med dig också!</h1>
-                        <p>Kul att du är intresserad utav att komma i kontakt med mig!</p>
-                        <p>Det enklaste sättet att göra det på, är genom kontaktformuläret nedan.
-                        Jag svarar alltid inom 24 timmar på alla mail!</p>
-                    </section>
-                </article>
-                <article class="articleWhite">
-                    <section>
-                        <h1>Kontaktformulär</h1>
-                        
-                        <form name="ContactForm" action="#" method="post">
-                            <fieldset>
-                                <legend>Här kan du kontakta mig</legend>
-                                <label class="leftalign" for="Type">Ärendetyp:</label>
-                                    <select name="Type" id="Type">
-                                        <option value="Fråga">Offertförfrågan</option>
-                                        <option value="Förslag">Allmänna frågor</option>
-                                        <option value="Förslag">Förslag</option>
-                                    </select><br />
-                                <label class="leftalign" for="Subject">Rubrik:</label>
-                                    <input type="text" name="Subject" id="Subject" required><br />
-                                <label class="leftalign" for="Email">Mail:</label>
-                                    <input type="email" name="Email" id="Email" required><br />
-                                <label class="leftalign" for="Message">Meddelande:</label> 
-                                    <textarea name="Message" id="Message"></textarea>
-                            </fieldset>                                                    
-                        <input type="submit" name="Submit" id="Submit" value="Skicka meddelandet">
-                        </form>
-                    </section>
-                </article>
+                
+                <div class="articleBlue">
+                <h1>Jag vill gärna komma i kontakt med dig också!</h1>
+                    <article>
+                        <section>                            
+                            <p>Det enklaste sättet att göra det på, är genom kontaktformuläret nedan.
+                            Jag svarar alltid inom 24 timmar på alla mail!</p>
+                        </section>
+                    </article>
+                </div>    
+                
+                <div class="articleWhite">
+                    <article>
+                        <section>
+                            <h1>Kontaktformulär</h1>
+                            
+                            <form name="ContactForm" action="#" method="post">
+                                <fieldset>
+                                    <legend>Här kan du kontakta mig</legend>
+                                    <label class="leftalign" for="Type">Ärendetyp:</label>
+                                        <select name="Type" id="Type">
+                                            <option value="Fråga">Offertförfrågan</option>
+                                            <option value="Förslag">Allmänna frågor</option>
+                                            <option value="Förslag">Förslag</option>
+                                        </select><br />
+                                    <label class="leftalign" for="Subject">Rubrik:</label>
+                                        <input type="text" name="Subject" id="Subject" required><br />
+                                    <label class="leftalign" for="Email">Mail:</label>
+                                        <input type="email" name="Email" id="Email" required><br />
+                                    <label class="leftalign" for="Message">Meddelande:</label> 
+                                        <textarea name="Message" id="Message"></textarea>
+                                </fieldset>                                                    
+                            <input type="submit" name="Submit" id="Submit" value="Skicka meddelandet">
+                            </form>
+                        </section>
+                    </article>
+                </div>
+                    
             </main>
             
             <footer>

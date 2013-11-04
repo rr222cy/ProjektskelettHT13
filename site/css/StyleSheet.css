@@ -46,11 +46,11 @@ main {
     margin-bottom: -55px;
 }
 
-article {   
+article {
 }
 
 section {
-    max-width: 1100px;
+    max-width: 960px;
     min-height: 100%;    
     margin: 0px auto;
     padding: 3% 2% 4% 2%;    
@@ -106,7 +106,7 @@ footer {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    background-repeat:no-repeat;  
+    background-repeat:no-repeat;
 }
 
 .articleRoad {
@@ -213,6 +213,8 @@ h1 {
     line-height: 200%;
     font-weight: 700;
     text-align: center;
+    margin-bottom: -2%;
+    padding-top: 2%;
 }
 
 header h1 {
@@ -220,6 +222,8 @@ header h1 {
     font-weight: 400;
     line-height: 100%;
     text-align: left;
+    margin-bottom: 0px;
+    padding-top: 0px;
 }
 
 header h2 {
