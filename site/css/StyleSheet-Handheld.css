@@ -55,6 +55,14 @@ nav a
     display: block;
 }
 
+#menuLink2 {   
+    font-weight: 700;
+    text-align: center;
+    font-size: 14pt;
+    display: block;
+}
+
+
 /* Formateringar för formulär för handhållna enheter */
 
 

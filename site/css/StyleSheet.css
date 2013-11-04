@@ -117,7 +117,8 @@ footer {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    background-repeat:no-repeat;  
+    background-repeat:no-repeat;
+    background-position: center;
 }
 
 .articleKaffe {
@@ -128,7 +129,8 @@ footer {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    background-repeat:no-repeat;  
+    background-repeat:no-repeat;
+
 }
 
 .articleBokeh {
@@ -187,6 +189,10 @@ nav .active a
 }
 
 #menuLink {   
+    display: none;
+}
+
+#menuLink2 {   
     display: none;
 }
 
@@ -333,10 +339,14 @@ img.center {
 
 .lightDarkBackground {
     background-color: rgba(0, 0, 0, 0.2);
+    width: 100%;   
+    margin: 0px auto;
 }
 
 .darkBackground {
     background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;   
+    margin: 0px auto;
 }
 
 
@@ -370,7 +380,7 @@ img.center {
 	left: 0;
 	top: 0;
 	border: 10px solid #fff;
-	background-repeat: no-repeat;
+	background-repeat: no-repeat;   
 }
 
 #lbPrevLink, #lbNextLink {
@@ -397,11 +407,8 @@ img.center {
 	background: transparent url(pics/nextlabel.gif) no-repeat 100% 15%;
 }
 
-#lbBottom {
-	font-family: Verdana, Arial, Geneva, Helvetica, sans-serif;
-	font-size: 10px;
+#lbBottom {	
 	color: #666;
-	line-height: 1.4em;
 	text-align: left;
 	border: 10px solid #fff;
 	border-top-style: none;
