@@ -9,6 +9,7 @@ header {
 
 nav {
     min-height: 100px;
+    min-width: 0;
     margin: 0%;
     padding: 0%;
     clear: both;
