@@ -19,7 +19,7 @@ body
     margin: 0 0 100px;
     background-color: #eeeeee;
     font-family: 'Quattrocento', Georgia, Tahoma, Verdana, Arial;
-    font-size: 12pt;
+    font-size: 14pt;
     line-height: 140%;
     color: #353535;
 }
@@ -39,7 +39,7 @@ header {
 nav {
     padding: 0% 1% 0% 1%;
     width: 98%;
-    height: 28px;
+    height: 31px;
 }
 
 main {
@@ -132,11 +132,11 @@ footer {
     background-size: cover;
     background-repeat:no-repeat;
     background-position: center;
-    padding: 180px 0px 180px;
+    padding: 200px 0px 200px;
 }
 
 .articleKaffe {
-    background-color: #ffffff;
+    background-color: #3c3f41;
     color: #ffffff;
     background-image: url(pics/Kaffe-stor-bg.jpg);
     -webkit-background-size: cover;
