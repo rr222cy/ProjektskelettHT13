@@ -8,9 +8,9 @@
         <meta name="viewport" content="width:device-width, initial-scale=1.0" />
         <title>Robert Roos - Portfolio och CV</title>
         <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-        <script src="js/slimbox2.js"></script>
         <link href='http://fonts.googleapis.com/css?family=Quattrocento:400,700|' rel='stylesheet' type='text/css'>
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <script type="text/javascript" src="js/fliplightbox.min.js"></script>
         <link rel="stylesheet" href="css/StyleSheet.css">
         <link rel="stylesheet" href="css/StyleSheet-Print.css">
         <link rel="stylesheet" media="screen and (max-width:690px)" href="css/StyleSheet-Handheld.css" />
@@ -68,8 +68,10 @@
                     <article>
                         <section>                            
                             <aside>
-                            <a class="noshow" href="pics/Responsive-Design.jpg" data-rel="lightbox" title="Responsiv design som innebär att din webbplats fungerar lika bra på laptopen som surfplattan och smartphonen.">
-                            <img class="center" src="pics/Responsive-Design.jpg" alt="Bild på en MacBook Pro och en Nexus 7 sufplatta som visar samma webbplats men med responsiv design."></a>
+                            <a href="pics/Responsive-Design.jpg" class="flipLightBox">
+                            <img class="center" src="pics/Responsive-Design.jpg" alt="Bild på en MacBook Pro och en Nexus 7 sufplatta som visar samma webbplats med responsiv design.">
+                                <span>Responsiv design som innebär att din webbplats fungerar lika bra på laptopen som surfplattan och smartphonen.</span>
+                            </a>
                             </aside>
                             <p>Webben är i ständig förändring. Inte minst de senaste åren har väldigt mycket hänt, 
                                 där alltfler nu använder sin smartphone och tablet för att surfa. Besökare har 
@@ -132,5 +134,6 @@
             </footer>
             
         </div>
+        <script type="text/javascript">$('body').flipLightBox()</script>
     </body>
 </html>

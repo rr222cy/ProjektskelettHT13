@@ -8,9 +8,9 @@
         <meta name="viewport" content="width:device-width, initial-scale=1.0" />
         <title>Om Robert Roos</title>
         <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-        <script src="js/slimbox2.js"></script>
         <link href='http://fonts.googleapis.com/css?family=Quattrocento:400,700|' rel='stylesheet' type='text/css'>
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <script type="text/javascript" src="js/fliplightbox.min.js"></script>
         <link rel="stylesheet" href="css/StyleSheet.css">
         <link rel="stylesheet" media="screen and (max-width:690px)" href="css/StyleSheet-Handheld.css" />
         <script type="text/javascript">
@@ -55,8 +55,9 @@
                         <section>
                             <p>22 år gammal, bosatt i Dalarna kodar och designar jag webbplatser som frilansande 
                                 webbutvecklare. Såväl självlärd som <strong>studerar datavetenskap vid Linnéuniversitetet</strong>.</p>
-                            <a href="pics/Robert-Roos.jpg" data-rel="lightbox" title="All Rights Reserved - du får alltså inte skriva ut denna bild och rama in den, ge bort i present eller sälja till modellagenturer utan mitt medgivande.">
+                            <a href="pics/Robert-Roos.jpg" class="flipLightBox">
                             <img class="picRight" src="pics/Robert-Roos.jpg" width="320" height="284" alt="Porträttbild på Robert Roos" />
+                                <span>All Rights Reserved - du får alltså inte skriva ut denna bild och rama in den, ge bort i present eller sälja till modellagenturer utan mitt medgivande. ;)</span>
                             </a>
                             <p>Är väldigt intresserad av teknik och har alltid på ett eller annat sätt såväl lekt som arbetat med det sedan barnsben.</p>
                             <p>Även politik är något jag är väldigt intresserad utav, likaså musik och utan att överraska stort är även spel ett fritidsintresse.</p>
@@ -82,5 +83,7 @@
             </footer>
             
         </div>
+    
+    <script type="text/javascript">$('body').flipLightBox()</script>
     </body>
 </html>
