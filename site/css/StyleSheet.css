@@ -312,7 +312,7 @@ label.leftalignshort
 }
 
 
-/* Övriga formateringar */
+/* Formateringar för bilder */
 
 
 img {
@@ -339,6 +339,10 @@ img.center {
     margin: 10px 20px 10px 0px;
 }
 
+
+/* Övriga formateringar */
+
+
 .clear {
     clear: both;
 }
@@ -355,8 +359,31 @@ img.center {
     margin: 0px auto;
 }
 
+.fadeInImage {
+    opacity: 0.7;
+    -webkit-transition: opacity 300ms ease-out 0s;
+    -moz-transition: opacity 300ms ease-out 0s;
+    -o-transition: opacity 300ms ease-out 0s;
+    transition: opacity 300ms ease-out 0s;
+    margin-right: 2%;
+    border: 5px solid;
+    border-color: #353535;
+}
+
+.fadeInImage:hover {
+    opacity: 1;
+    -webkit-transition: opacity 300ms ease-out 0s;
+    -moz-transition: opacity 300ms ease-out 0s;
+    -o-transition: opacity 300ms ease-out 0s;
+    transition: opacity 300ms ease-out 0s;
+}
+
 .floatRight {
     float: right;
+}
+
+.textCenter {
+    text-align: center;
 }
 
 
