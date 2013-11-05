@@ -53,7 +53,7 @@ section {
     max-width: 960px;
     min-height: 100%;    
     margin: 0px auto;
-    padding: 3% 2% 4% 2%;
+    padding: 4% 2% 4% 3%;
 }
 
 aside {
@@ -86,12 +86,17 @@ footer {
 
 
 .articleRed {
-    background-color: #f03536;
+    background-color: #E03F49;
     color: #ffffff;
 }
 
 .articleBlue {
     background-color: #167cc0;
+    color: #ffffff;
+}
+
+.articleDarkBlue {
+    background-color: #116299;
     color: #ffffff;
 }
 
@@ -114,22 +119,24 @@ footer {
     -o-background-size: cover;
     background-size: cover;
     background-repeat:no-repeat;
+    padding-top: 0%;
 }
 
 .articleRoad {
     background-color: #3c3f41;
     color: #ffffff;
-    background-image: url(pics/Road.jpg);
+    background-image: url(pics/Road-stor-bg.jpg);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
     background-repeat:no-repeat;
     background-position: center;
+    padding: 180px 0px 180px;
 }
 
 .articleKaffe {
-    background-color: #3c3f41;
+    background-color: #ffffff;
     color: #ffffff;
     background-image: url(pics/Kaffe-stor-bg.jpg);
     -webkit-background-size: cover;
@@ -137,7 +144,7 @@ footer {
     -o-background-size: cover;
     background-size: cover;
     background-repeat:no-repeat;
-
+    padding: 400px 0px 440px;
 }
 
 /* Formatering av sidans huvudmeny */
@@ -348,6 +355,9 @@ img.center {
     margin: 0px auto;
 }
 
+.floatRight {
+    float: right;
+}
 
 
 /* SLIMBOX */
