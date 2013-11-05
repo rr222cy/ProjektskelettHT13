@@ -21,11 +21,11 @@ som tilltalar besökaren.
 * <strong>Webbproduktion (webbproduktion.html)</strong><br />
 Undersidan webbproduktion kommer som titeln avslöjar presentera vad jag kan och vad jag erbjuder för tjänster inom webbproduktion. Bilder/exempel kommer presenteras här, även om meningen är att majoriteten av sådant skall placeras under referenser. Webbproduktion kommer att ha tre undersidor.
     * <strong>Webbplats (webbplats.html)</strong><br />
-    Kommer presentera vad jag erbjuder när det gäller att bygga webbplatser.
+    Kommer presentera vad jag erbjuder när det gäller att bygga webbplatser. <strong>EDIT: Inlagd i webbproduktion.html</strong>
     * <strong>Sociala medier (socialamedier.html)</strong><br />
-    Kommer presentera hur jag kan öka besöksflödet och ge en kund en plats i sociala medier.
+    Kommer presentera hur jag kan öka besöksflödet och ge en kund en plats i sociala medier. <strong>EDIT: Inlagd i webbproduktion.html</strong>
     * <strong>Sökmotoroptimering (seo.html)</strong><br />
-    Kommer presentera hur kundens site hamnar så högt upp som möjligt i sökresultaten vid olika söktjänster.
+    Kommer presentera hur kundens site hamnar så högt upp som möjligt i sökresultaten vid olika söktjänster. <strong>EDIT: Inlagd i webbproduktion.html</strong>
 * <strong>Foto (foto.html)</strong><br />
 Fungerar på samma sätt som webbdesign.html fast med foto (denna sida är tillfällig, för projektet)
 * <strong>Referenser (referenser.html)</strong><br />
