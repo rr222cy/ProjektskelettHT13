@@ -3,6 +3,10 @@
 
 /* Formateringar som skall gälla för menyn för handhållna enheter */
 
+header {
+    margin-bottom: 4%;
+}
+
 nav {
     min-height: 100px;
     margin: 0%;
