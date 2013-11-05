@@ -1,6 +1,14 @@
 @media print 
 {
 
+body 
+{
+    font-family: 'Quattrocento', Georgia, Tahoma, Verdana, Arial;
+    font-size: 10pt;
+    line-height: 140%;
+    color: #353535;
+}    
+
 h1 {
     color: #000000;
 }
